@@ -2,6 +2,7 @@ $(window).load(function () {
   let body = $("body"),
     universe = $("#universe"),
     solarsys = $("#solar-system");
+
   let init = function () {
     body
       .removeClass("view-2D opening")
