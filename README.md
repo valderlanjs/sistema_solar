@@ -3,6 +3,6 @@
 
 |     | Project           | Live Demo                                                             |
 | :-: | ----------------- | --------------------------------------------------------------        |
-|     | Sistema Solar     | [Live Demo](https://valderlanjs.github.io/SIDEBARS/)                  |
+|     | Sistema Solar     | [Live Demo](https://valderlanjs.github.io/sistema_solar/)             |
  
  
